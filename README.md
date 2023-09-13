@@ -72,19 +72,41 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-![Screenshot 2023-08-24 083338](https://github.com/SriramS22/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119094390/8c7d2a57-de46-4237-a542-26d2700ca9a3)
+## Head
 
-![Screenshot 2023-08-24 083348](https://github.com/SriramS22/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119094390/e17e9dcd-3881-4a6c-80ec-bd7552cd466c)
+![Screenshot 2023-09-12 153046](https://github.com/SriramS22/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119094390/3e9c6790-d98d-4875-9fe8-bca8fbcbbcc7)
 
-![Screenshot 2023-08-24 083355](https://github.com/SriramS22/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119094390/1f8e3ddf-a2b4-4169-8abe-df9ce11d435f)
+## Tail
 
-![Screenshot 2023-08-24 083406](https://github.com/SriramS22/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119094390/be967a88-2bbc-4f5f-8535-e63b2a85ae4d)
+![Screenshot 2023-09-12 153120](https://github.com/SriramS22/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119094390/9c575f6b-ac0f-4fe8-add1-a14122e0219e)
 
-![Screenshot 2023-08-24 083414](https://github.com/SriramS22/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119094390/5ecbfe61-c199-4077-a855-61c51f0256d5)
+## Array values of x
 
-![Screenshot 2023-08-24 083422](https://github.com/SriramS22/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119094390/cc14f764-c4b7-49e4-b60f-5ad21441e3c2)
+![Screenshot 2023-09-12 153157](https://github.com/SriramS22/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119094390/f5feb380-c1c5-496f-bfd5-275b7ad25a72)
 
-![Screenshot 2023-08-24 083429](https://github.com/SriramS22/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119094390/8ed1a10a-14ed-4805-a8cd-04b16380fd45)
+## Array values of y
+
+![Screenshot 2023-09-12 153226](https://github.com/SriramS22/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119094390/c74a9af1-cc77-4938-8423-08274ea90cf8)
+
+## Values of y prediction
+
+![Screenshot 2023-09-12 153307](https://github.com/SriramS22/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119094390/b8003b46-5f19-4068-92ff-b0f99707d0dc)
+
+## Values of y test
+
+![Screenshot 2023-09-12 153342](https://github.com/SriramS22/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119094390/10df3f2c-7d8a-4a8d-ad42-7f7341766659)
+
+## Training set graph
+
+![Screenshot 2023-09-12 153420](https://github.com/SriramS22/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119094390/645d8f0c-6229-4662-ad0c-0942416a01b2)
+
+## Test set graph
+
+![Screenshot 2023-09-12 153456](https://github.com/SriramS22/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119094390/0177519d-11eb-4080-830e-9d04c3311ee2)
+
+## Values of MSE,MAE,RMSE
+
+![Screenshot 2023-09-12 153521](https://github.com/SriramS22/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119094390/1ff6ada1-9f2b-42cf-8b1c-35298a2aabec)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
